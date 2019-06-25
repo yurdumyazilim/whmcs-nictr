@@ -347,7 +347,7 @@ class NicTR {
             'dns2Name'=>$new_dns['ns'][1],
             'dns3Name'=>$new_dns['ns'][2],
             'dns4Name'=>$new_dns['ns'][3],
-            'dns5Name'=>$new_dns['ns'][3],
+            'dns5Name'=>$new_dns['ns'][4],
 
             'dns1IP'=>$new_dns['ipv4'][0],
             'dns2IP'=>$new_dns['ipv4'][1],
